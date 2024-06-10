@@ -9,3 +9,9 @@ During this internship program, I have oppornutity to:
 * Gain hands-on experinece in SQL, Power BI/ Tableau projects.
 * Contribute to real-world SQL, Power BI/Tableau applications.
 * Enhance my skills and knowledge in dynamic domain
+
+
+Project   | Tools Used    |
+-------------------- |-------------------------------------- |
+[Corona Virus Analysis](https://github.com/Aayush-Basnet/Mentorness-Internship/blob/main/Task%202/corona_virus_analysis_mentorness.sql)   |  SQL
+NREGA Analysis     | Power BI
