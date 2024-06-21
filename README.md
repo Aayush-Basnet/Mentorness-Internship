@@ -40,7 +40,7 @@ In a world reshaped by COVID-19, our SQL dataset analysis serves as a beacon of 
 NREGA is a transformative government scheme aimed at providing rural households with guaranteed wage employment opportunities.
  ### Problem Statement:
  
-      NREGA is a vital initiative to alleviate rural unemployment and poverty. This project seeks to address several key questions and challenges associated with NREGA:
+NREGA is a vital initiative to alleviate rural unemployment and poverty. This project seeks to address several key questions and challenges associated with NREGA:
 1. How effective is NREGA in providing employment opportunities to rural households?
 2. Are there regional disparities in the implementation and outcomes of the scheme?
 3. What is the utilization of the allocated budget, and how does it correlate with employment generation?
