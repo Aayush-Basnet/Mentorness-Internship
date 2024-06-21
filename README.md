@@ -1,4 +1,4 @@
-![image](https://github.com/Aayush-Basnet/Mentorness-Internship/assets/122598100/dba9c25c-0037-4c07-a88f-1accc3f393c8)# Mentorness-Internship
+# Mentorness-Internship
 
 ![alt  text](https://github.com/Aayush-Basnet/Mentorness-Internship/blob/f43bc28d6f1d995707d8ea8888f33a6a74398d92/Image/mentorness_logo.jpg)
 
@@ -38,7 +38,8 @@ In a world reshaped by COVID-19, our SQL dataset analysis serves as a beacon of 
 ![alt text](https://github.com/Aayush-Basnet/Mentorness-Internship/blob/83e663699a957250fb3d8f0d7c275f33d324326f/Task%203/NREGA%20image.jpeg)
 
 NREGA is a transformative government scheme aimed at providing rural households with guaranteed wage employment opportunities.
-* Problem Statement:
+ ### Problem Statement:
+ 
       NREGA is a vital initiative to alleviate rural unemployment and poverty. This project seeks to address several key questions and challenges associated with NREGA:
 1. How effective is NREGA in providing employment opportunities to rural households?
 2. Are there regional disparities in the implementation and outcomes of the scheme?
