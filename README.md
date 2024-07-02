@@ -10,7 +10,7 @@ During this internship program, I have oppornutity to:
 * Contribute to real-world SQL, Power BI/Tableau applications.
 * Enhance my skills and knowledge in dynamic domain
 
-
+![certificate](https://github.com/Aayush-Basnet/Mentorness-Internship/blob/2d2ceb85fb4a6b0e7dea1d0b61cea8c671044cd7/Aayush%20Basnet_Certificate_Mentorness.pdf)
 Project   | Tools Used    |
 -------------------- |-------------------------------------- |
 [Corona Virus Analysis](https://github.com/Aayush-Basnet/Mentorness-Internship/blob/main/Task%202/corona_virus_analysis_mentorness.sql)   |  SQL
